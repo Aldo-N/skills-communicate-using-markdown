@@ -7,3 +7,7 @@ This change added a header to this file.
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+- [X] Start homework
+- [X] Start tasklist
+- [ ] Finish homework
